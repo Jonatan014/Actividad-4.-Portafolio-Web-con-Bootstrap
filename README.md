@@ -50,7 +50,7 @@ Portafolio/
 
 # Secciones del portafolio
 
-## Inicio (Home)
+## Inicio
 
 Es la portada principal del sitio.
 
@@ -66,7 +66,7 @@ Contiene:
 
 ---
 
-## Sobre mí (About)
+## Sobre mí
 
 Presenta información personal y académica.
 
@@ -85,10 +85,15 @@ También muestra una barra de progreso con algunas habilidades técnicas:
 - CSS
 - JavaScript
 - Java
+- Bootstrap
+- PostgreSQL
+- Oracle
+- Lenguaje C
+- Ensamblador
 
 ---
 
-## Formación Académica (Resume)
+## Formación Académica
 
 Describe la preparación académica.
 
@@ -122,7 +127,7 @@ Actualmente curso la carrera de Ingeniería en Sistemas Computacionales, donde h
 
 ---
 
-## Áreas de interés (Services)
+## Áreas de interés
 
 Esta sección muestra las áreas donde deseo especializarme profesionalmente.
 
@@ -137,20 +142,20 @@ Incluye:
 
 ---
 
-## Estadísticas (Stats)
+## Estadísticas
 
 Se agregaron indicadores relacionados con mi formación académica.
 
 Ejemplo:
 
-- Proyectos realizados
-- Tecnologías aprendidas
-- Horas de práctica
-- Cursos completados
+- Proyectos Académicos
+- Tecnologías Aprendidas
+- Lenguajes de Programación
+- Bases de Datos Utilizadas
 
 ---
 
-## Portafolio (Portfolio)
+## Portafolio
 
 Muestra algunos de los proyectos más importantes desarrollados durante mi formación académica.
 
@@ -177,10 +182,9 @@ Permite visualizar la información de contacto.
 
 Incluye:
 
-- Ciudad
+- Ubicación
 - Teléfono
 - Correo institucional
-- Redes sociales
 
 ---
 
@@ -231,7 +235,6 @@ Entre las principales modificaciones se encuentran:
 - Cambio del menú.
 - Cambio de textos.
 - Cambio de contacto.
-- Traducción completa del sitio al español.
 
 ---
 
@@ -253,50 +256,24 @@ Entre las principales modificaciones se encuentran:
 
 ## Página principal
 
-*(Agregar aquí una captura del inicio del portafolio)*
-
-![Inicio](img/captura1.png)
+![Inicio](img/c1.png)
 
 ---
 
 ## Sección "Sobre mí"
 
-*(Agregar captura)*
-
-![Sobre mí](img/captura2.png)
+![Sobre mí](img/c2.png)
 
 ---
 
 ## Portafolio
 
-*(Agregar captura)*
-
-![Portafolio](img/captura3.png)
+![Portafolio](img/c3.png)
 
 ---
 
 ## Contacto
 
-*(Agregar captura)*
-
-![Contacto](img/captura4.png)
+![Contacto](img/c4.png)
 
 ---
-
-# Repositorio
-
-(Pegar aquí el enlace del repositorio)
-
-```
-https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO
-```
-
----
-
-# GitHub Pages
-
-(Pegar aquí el enlace de GitHub Pages)
-
-```
-https://TU_USUARIO.github.io/NOMBRE_REPOSITORIO/
-```
