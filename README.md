@@ -256,24 +256,24 @@ Entre las principales modificaciones se encuentran:
 
 ## Página principal
 
-![Inicio](img/c1.png)
+![Inicio](assets/img/c1.png)
 
 ---
 
 ## Sección "Sobre mí"
 
-![Sobre mí](img/c2.png)
+![Sobre mí](assets/img/c2.png)
 
 ---
 
 ## Portafolio
 
-![Portafolio](img/c3.png)
+![Portafolio](assets/img/c3.png)
 
 ---
 
 ## Contacto
 
-![Contacto](img/c4.png)
+![Contacto](assets/img/c4.png)
 
 ---
